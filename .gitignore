@@ -1,0 +1,36 @@
+--- Python specific ---
+Byte-compiled / optimized / DLL files
+pycache/
+*.pyc
+*.pyd
+*.pyo
+
+Virtual environment
+This is a common practice to not commit your virtual environment
+as it's specific to your machine.
+venv/
+.venv/
+
+Dependencies
+This can be handled by a requirements.txt, but it's good practice to
+ignore these folders if they exist.
+env/
+.env/
+
+MyPy cache
+.mypy_cache/
+
+--- IDE specific ---
+Common IDE-generated files
+.vscode/
+.idea/
+*.swp
+
+--- OS specific ---
+macOS
+.DS_Store
+
+Windows
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
