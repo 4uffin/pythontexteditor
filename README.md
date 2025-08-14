@@ -1,4 +1,6 @@
-# **Python Focused Editor (PyEdit)**
+> WARNING: I made this as a joke, because I was bored and wanted to see the idea come to life. Expect it to be buggy.
+
+# Python Focused Editor (PyEdit)
 
 A minimal yet functional text editor built with Python and PyQt6, specifically designed for Python development.
 
